@@ -1,4 +1,4 @@
-# App Deployed at [https://hyma200.github.io/CountryList/](https://hyma200.github.io/CountryList/) site.
+# App Deployed at [https://hyma200.github.io/CountryList/](https://hyma200.github.io/CountryList/).
 
 ## Run the following commands to execute the project
 
