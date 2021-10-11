@@ -1,6 +1,6 @@
 # App Deployed at [https://hyma200.github.io/CountryList/](https://hyma200.github.io/CountryList/).
 
-## Run the following commands to execute the project
+## Run the following commands to execute the project locally
 
 ### `npm install`
 Installs all packages needed to run this application
